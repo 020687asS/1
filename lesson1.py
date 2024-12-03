@@ -1,4 +1,7 @@
-for i in range(1,10):
-    print()
-    for j in range(11):
-        print(f'{i} * {j} = {i * j}')
+
+summ = 0
+a = 0
+while a <= number:
+    a += 1
+    summ += a
+print(summ)
